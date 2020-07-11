@@ -1,0 +1,23 @@
+{
+    "name": "rhiaro/erh",
+    "description": "Helper functions for ActivityPub clients",
+    "version": "0.0.1",
+    "type": "library",
+    "autoload": {
+        "files": [
+            "src/index.php"
+        ]
+    },
+    "require": {
+        "ml/json-ld": "^1.2",
+        "easyrdf/easyrdf": "^0.9.1",
+        "rmccue/requests": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amy Guy",
+            "email": "amy@rhiaro.co.uk"
+        }
+    ]
+}
