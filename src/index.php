@@ -1,6 +1,6 @@
 <?php
 
-namespace rhiaro\EHR;
+namespace rhiaro\ERH;
 
 use EasyRdf_Graph;
 use EasyRdf_Namespace;
