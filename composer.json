@@ -5,7 +5,8 @@
     "type": "library",
     "autoload": {
         "files": [
-            "src/index.php"
+            "src/index.php",
+            "src/inputs.php"
         ]
     },
     "require": {
