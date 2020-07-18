@@ -27,3 +27,5 @@ function make_date_string($date_parts){
     $date_str = $date_parts["year"]."-".$date_parts["month"]."-".$date_parts["day"]."T".$date_parts["time"].$date_parts["zone"];
     return $date_str;
 }
+
+?>

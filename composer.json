@@ -6,7 +6,9 @@
     "autoload": {
         "files": [
             "src/index.php",
-            "src/inputs.php"
+            "src/inputs.php",
+            "src/validate.php",
+            "src/post.php"
         ]
     },
     "require": {
